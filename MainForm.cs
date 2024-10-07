@@ -15,8 +15,6 @@ namespace Digital_Persona_Fingerprint
     {
         private DPFP.Capture.Capture Capturer;
 
-        // Test OnGitHub
-
         public MainForm()
         {
             InitializeComponent();
